@@ -1,0 +1,98 @@
+[
+    {
+        "_id": {
+            "$oid": "63dc61ef204ccae2d154f859"
+        },
+        "firstName": "Arlena",
+        "lastName": "Anthoney",
+        "email": "aanthoney0@auda.org.au",
+        "password": "vxPkkaS8iP7h",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -118.03284,
+                33.979203
+            ]
+        }
+    },
+    {
+        "_id": {
+            "$oid": "63dc61ef204ccae2d154f85a"
+        },
+        "firstName": "Morey",
+        "lastName": "Ivanichev",
+        "email": "mivanichev1@twitter.com",
+        "password": "m0rHr4hx2",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -118.043143,
+                33.976789
+            ]
+        }
+    },
+    {
+        "_id": {
+            "$oid": "63dc61ef204ccae2d154f85b"
+        },
+        "firstName": "Lidia",
+        "lastName": "Musgrave",
+        "email": "lmusgrave2@biglobe.ne.jp",
+        "password": "J4PY0xi4",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -118.038453,
+                33.984589
+            ]
+        }
+    },
+    {
+        "_id": {
+            "$oid": "63dc61ef204ccae2d154f85c"
+        },
+        "firstName": "Giles",
+        "lastName": "Romagosa",
+        "email": "gromagosa3@hp.com",
+        "password": "cwmVFb",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -118.045916,
+                33.988581
+            ]
+        }
+    },
+    {
+        "_id": {
+            "$oid": "63dc61ef204ccae2d154f85d"
+        },
+        "firstName": "Sharyl",
+        "lastName": "Molyneaux",
+        "email": "smolyneaux4@va.gov",
+        "password": "HA1rYeVpc",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -118.06054,
+                33.975806
+            ]
+        }
+    },
+    {
+        "_id": {
+            "$oid": "63dc61ef204ccae2d154f85e"
+        },
+        "firstName": "Frannie",
+        "lastName": "Eates",
+        "email": "feates5@walmart.com",
+        "password": "DVeQgcLZ",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -118.06367,
+                33.982828
+            ]
+        }
+    }
+]
